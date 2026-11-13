@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "build": 23,
+  "url": "https://github.com/wetadeveloper/selamet-turizm-yonetim-downloads/releases/download/windows-v1.0.0-test.23/SelametTurizm-Yonetim-Setup.exe",
+  "sha256": "b25cbf907ad775bfae28123e7010f6ea60e89a5121882200e54e51f548c6994f",
+  "size": 19808685,
+  "android": {
+    "version": "1.0.0",
+    "build": 26,
+    "url": "https://play.google.com/store/apps/details?id=com.selametturizm.admin",
+    "notes": "Canlı yayında kalabalık gruplar için bağlantı iyileştirmeleri, dinleyici sayacı ve sadeleşen üst bar."
+  },
+  "ios": {
+    "version": "1.0.0",
+    "build": 26,
+    "url": "https://testflight.apple.com/join/vvGPXYhZ",
+    "notes": "Canlı yayında kalabalık gruplar için bağlantı iyileştirmeleri, dinleyici sayacı ve sadeleşen üst bar."
+  }
+}
