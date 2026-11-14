@@ -12,8 +12,8 @@
   },
   "ios": {
     "version": "1.0.0",
-    "build": 26,
+    "build": 28,
     "url": "https://testflight.apple.com/join/vvGPXYhZ",
-    "notes": "Canlı yayında kalabalık gruplar için bağlantı iyileştirmeleri, dinleyici sayacı ve sadeleşen üst bar."
+    "notes": "Yayın kesilince bağlantı kendiliğinden onarılır; yayın yolculara ulaşmazsa uyarı verir; sorun kaydı iyileştirildi."
   }
 }
